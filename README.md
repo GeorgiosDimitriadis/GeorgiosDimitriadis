@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgiosDimitriadis.
-- 👀 I’m interested in Software Development and Robotics.
+- 👀 I’m interested in Software Development and AI in Medicine.
 - 🌱 I’m currently studying Computer science and Enginnering UOI.
 - ⚡ Fun fact i enjoy learning new things and when iam doing it iam really focused.
 
